@@ -1,5 +1,5 @@
 # LHOOQ
 Brief analys of art data
 
-![LHOOQ imagen](/Images/descarga.jpeg)
+![LHOOQ imagen](https://historia-arte.com/obras/l-h-o-o-q-de-duchamp)
 
